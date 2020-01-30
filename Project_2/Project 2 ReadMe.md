@@ -49,5 +49,3 @@ From the modelling, we can conclude that neither regression outperforms the othe
 
 In order to obtain the optimal model for predicting the house prices, the feature selections stage of the process would be more crucial to the accuracy of the model, rather than the type of regression. Choosing the right tests to score and evaluate the variables and their abilities should be focused on when beginning.
 
-For further studies, further prediction models could be used to predict prices of each neighbourhood or property type, as there seems to be major differences between each which could minimise the prediction error (RMSE) even further, which would be most beneficial to the users of the model.
-
